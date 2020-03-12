@@ -1,0 +1,187 @@
+{
+  "project_info": {
+    "project_number": "690063283323",
+    "firebase_url": "https://food-61b69.firebaseio.com",
+    "project_id": "food-61b69",
+    "storage_bucket": "food-61b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690063283323:android:83ba6504216215ee",
+        "android_client_info": {
+          "package_name": "com.example.narendra.androideatitshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690063283323-qop81dq190bhratk7uvoc4demfu3t2m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narendra.androideatitshipper",
+            "certificate_hash": "82d1da78921d5831b3e56a36827033b015fdfca9"
+          }
+        },
+        {
+          "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BnC5tWLcsB5Pb_PSPW0eFnWwAIBam1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690063283323:android:0b814311c9bf5f07",
+        "android_client_info": {
+          "package_name": "com.example.narendra.eatfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690063283323-imoelcda56of0f42pvueepa3u7k0cbiu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narendra.eatfood",
+            "certificate_hash": "82d1da78921d5831b3e56a36827033b015fdfca9"
+          }
+        },
+        {
+          "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BnC5tWLcsB5Pb_PSPW0eFnWwAIBam1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690063283323:android:9a6f74978db4b788",
+        "android_client_info": {
+          "package_name": "com.example.narendra.eatfoodserver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690063283323-4j6jq97goldv0ubelon0m0les9kb48v0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narendra.eatfoodserver",
+            "certificate_hash": "82d1da78921d5831b3e56a36827033b015fdfca9"
+          }
+        },
+        {
+          "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BnC5tWLcsB5Pb_PSPW0eFnWwAIBam1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690063283323:android:96acf666d60b4b16",
+        "android_client_info": {
+          "package_name": "com.example.narendra.eatfoodshipper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690063283323-71bc4ec7t4k0ivcjmnutv4ecoqibrbp8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.narendra.eatfoodshipper",
+            "certificate_hash": "82d1da78921d5831b3e56a36827033b015fdfca9"
+          }
+        },
+        {
+          "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BnC5tWLcsB5Pb_PSPW0eFnWwAIBam1w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690063283323-hg48130m44nqnsr87qos89vl3t0fi32p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
